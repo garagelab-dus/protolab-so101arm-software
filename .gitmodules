@@ -1,0 +1,9 @@
+[submodule "external/FTServo_Python"]
+	path = external/FTServo_Python
+	url = https://github.com/ftservo/FTServo_Python
+[submodule "external/FTServo_Linux"]
+	path = external/FTServo_Linux
+	url = https://github.com/ftservo/FTServo_Linux
+[submodule "external/FT_SCServo_Debug_Qt"]
+	path = external/FT_SCServo_Debug_Qt
+	url = https://github.com/Kotakku/FT_SCServo_Debug_Qt
